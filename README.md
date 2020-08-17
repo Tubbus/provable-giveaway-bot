@@ -2,7 +2,7 @@
 ## Introduction
 **Discord's Giveaway Bot just got a lot better!**
 This bot was made as an entry for **Discord Hackweek #1 (2019)**
-
+[![Run on Repl.it](https://repl.it/badge/github/Tubbus/provable-giveaway-bot)](https://repl.it/github/Tubbus/provable-giveaway-bot)
 This bot will help you:
 - **Specify end date/time for your giveaway like you normally do**. No more weird suffixes and prefixes to show the bot where the hour/minute is.
 - **Provide yourself with a Giveaway ID**, then you can `end`, `reroll`, `delete`, or retrieve your giveaway's `result` as a `*.txt` file. No more Discord Developer mode to get that spoopy Message ID.
